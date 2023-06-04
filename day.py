@@ -1,4 +1,4 @@
-# this was the code of a working webtoons promo gen (generated around 250k codes (reason why they were reverted 💀))
+# this was the code of a working webtoons 0 day (generated around 250k codes (reason why they were reverted 💀))
 from httpx          import get
 from threading      import Thread, active_count
 
