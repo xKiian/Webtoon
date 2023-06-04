@@ -30,7 +30,9 @@
 <h1>☀・Showcase</h1>
 
 
-[!Demo(https://cdn.discordapp.com/attachments/1109129892576100392/1114950813157163209/banner.png)[https://streamable.com/e/i6ugl6?autoplay=1&nocontrols=1]]
+https://streamable.com/e/i6ugl6?autoplay=1&nocontrols=1
+
+
 ---
 
 <h1>🚨・We found a 0day</h1>
