@@ -1,0 +1,5 @@
+hotmailbox_api_key: ""
+
+scrape_proxy: false
+email_type: "api or custom"
+custom_mail_domain: "funcaptcha.lol"
