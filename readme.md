@@ -30,7 +30,9 @@
 <h1>☀・Showcase</h1>
 
 
-https://streamable.com/e/i6ugl6?autoplay=1&nocontrols=1
+
+https://github.com/sfx2me/Webtoon/assets/88455386/6c381f47-fc39-434b-afdf-c4b9996c1fb9
+
 
 
 ---
