@@ -30,8 +30,7 @@
 <h1>☀・Showcase</h1>
 
 
-https://github.com/sfx2me/promo-gen/assets/88455386/db3b585f-e6ce-4e6b-b2eb-c7a6cf1fbd26
-
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/i6ugl6?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
