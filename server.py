@@ -86,7 +86,7 @@ def get_email_custom_promo(user, attempt):
     print(f"{Fore.LIGHTBLACK_EX}{strftime('%H:%M:%S')} | {Fore.LIGHTWHITE_EX}Fetching From {Fore.WHITE}-> {Fore.GREEN}{user} {Fore.WHITE}[Attempt: {attempt}]")
 
 
-    email_data = get(f"https://api.tidal.shop/api/v1/emails/{user}").json()
+    email_data = get(f"https://api.tidal.lol/api/v1/emails/{user}").json()
     
     if email_data['emails'] is not None:
         emails = email_data.get('emails', [])
