@@ -30,7 +30,7 @@
 <h1>☀・Showcase</h1>
 
 
-https://github.com/sfx2me/Webtoon/assets/88455386/9cb60ada-1c2f-4eb2-90c1-73dfd68dbe99
+https://github.com/sfx2me/promo-gen/assets/88455386/db3b585f-e6ce-4e6b-b2eb-c7a6cf1fbd26
 
 
 ---
@@ -68,8 +68,9 @@ https://github.com/sfx2me/Webtoon/assets/88455386/9cb60ada-1c2f-4eb2-90c1-73dfd6
 
 ## 🎉・Disclaimer
 ```sh-session
-- The promo ends on June 8th, so this is the last update
-- Dont judge the shit code. Ninja got his hands on it
+- It takes up to 20hours to receive a cod, because wbtoon randomly sends them.
+- The promo ends on June 8th, so this is the last update.
+- Dont judge the shit code. Ninja got his hands on it.
 ```
 
 
